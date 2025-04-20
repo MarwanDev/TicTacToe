@@ -18,7 +18,7 @@ This is a classic 2-player game where players take turns marking X and O on a 3x
 ## 📸 Screenshots
 
 | Game Start | Game Over |
-|------------|-------------|------------|
+|------------|-------------|
 | ![Start](Screenshots/Start.JPG) | ![Game Over](Screenshots/GameOver.JPG) |
 
 > Make sure to place your screenshots in a `screenshots/` folder in the root of the repo.
