@@ -27,7 +27,8 @@ This is a classic 2-player game where players take turns marking X and O on a 3x
 
 ## 🚀 Live Demo
 
-🔗 Coming soon — or you can clone and run the project locally (see below).
+🔗 Try out the game by downloading it using the link below:  
+[Download TicTacToe](https://drive.google.com/file/d/11wHPV0okpxdLMeYsLuxGKLggybeEwtvk/view?usp=sharing)  
 
 ---
 
