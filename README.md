@@ -46,3 +46,18 @@ This is a classic 2-player game where players take turns marking X and O on a 3x
    ```bash
    git clone https://github.com/MarwanDev/TicTacToe.git
    cd TicTacToe
+
+---
+
+## Contributing 🤝
+Contributions are welcome! Here's how you can help:  
+1. Fork the repository.  
+2. Create a feature branch (`git checkout -b feature-name`).  
+3. Commit your changes (`git commit -m 'Add a new feature'`).  
+4. Push to the branch (`git push origin feature-name`).  
+5. Open a pull request.  
+
+Feel free to open issues for bugs, suggestions, or enhancements.
+
+## License 📜
+This project is licensed under the [MIT License](LICENSE).  
